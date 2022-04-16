@@ -3,7 +3,7 @@
 
 
 /*BACKGROUND CHANGE*/
-const colors = ['#B19567','#CCC4B9','#535140','#E7EAED','#6f7482'];
+const colors = ['#B19567','#CCC4B9','#535140','#E7EAED','#6F7482'];
 
 const button = document.querySelector('.button');
 
